@@ -1,0 +1,183 @@
+{
+  "domain": "bigtappanalytics.com",
+  "start_url": "https://bigtappanalytics.com",
+  "timestamp": "20260328_114437",
+  "statistics": {
+    "html_pages": 3,
+    "skipped_files": 0,
+    "errors": 26
+  },
+  "total_urls": 28,
+  "crawled_urls": 29,
+  "skipped_urls": 0,
+  "urls": [
+    {
+      "url": "https://bigtappanalytics.com/",
+      "original_url": "https://bigtappanalytics.com/",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/careers",
+      "original_url": "https://bigtappanalytics.com/careers",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/contacts",
+      "original_url": "https://bigtappanalytics.com/contacts",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/about",
+      "original_url": "https://bigtappanalytics.com/about",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/beeonix",
+      "original_url": "https://bigtappanalytics.com/beeonix",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/cloud-unity",
+      "original_url": "https://bigtappanalytics.com/cloud-unity",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/reference-data-model",
+      "original_url": "https://bigtappanalytics.com/reference-data-model",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/analytical-blueprinting",
+      "original_url": "https://bigtappanalytics.com/analytical-blueprinting",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/data-platform-engineering",
+      "original_url": "https://bigtappanalytics.com/data-platform-engineering",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/ai-decision-intelligence",
+      "original_url": "https://bigtappanalytics.com/ai-decision-intelligence",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/hyper-automation-run",
+      "original_url": "https://bigtappanalytics.com/hyper-automation-run",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/bns",
+      "original_url": "https://bigtappanalytics.com/bns",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/retail",
+      "original_url": "https://bigtappanalytics.com/retail",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://bigtappanalytics.com/insurance",
+      "original_url": "https://bigtappanalytics.com/insurance",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/",
+      "original_url": "https://www.bigtappanalytics.com/",
+      "found_on": "https://bigtappanalytics.com",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/careers",
+      "original_url": "https://www.bigtappanalytics.com/careers",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/contacts",
+      "original_url": "https://www.bigtappanalytics.com/contacts",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/about",
+      "original_url": "https://www.bigtappanalytics.com/about",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/beeonix",
+      "original_url": "https://www.bigtappanalytics.com/beeonix",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/cloud-unity",
+      "original_url": "https://www.bigtappanalytics.com/cloud-unity",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/reference-data-model",
+      "original_url": "https://www.bigtappanalytics.com/reference-data-model",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/analytical-blueprinting",
+      "original_url": "https://www.bigtappanalytics.com/analytical-blueprinting",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/data-platform-engineering",
+      "original_url": "https://www.bigtappanalytics.com/data-platform-engineering",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/ai-decision-intelligence",
+      "original_url": "https://www.bigtappanalytics.com/ai-decision-intelligence",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/hyper-automation-run",
+      "original_url": "https://www.bigtappanalytics.com/hyper-automation-run",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/bns",
+      "original_url": "https://www.bigtappanalytics.com/bns",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/retail",
+      "original_url": "https://www.bigtappanalytics.com/retail",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    },
+    {
+      "url": "https://www.bigtappanalytics.com/insurance",
+      "original_url": "https://www.bigtappanalytics.com/insurance",
+      "found_on": "https://www.bigtappanalytics.com/",
+      "status": "pending"
+    }
+  ]
+}

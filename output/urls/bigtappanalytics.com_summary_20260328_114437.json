@@ -1,0 +1,43 @@
+{
+  "domain": "bigtappanalytics.com",
+  "start_url": "https://bigtappanalytics.com",
+  "timestamp": "20260328_114437",
+  "statistics": {
+    "html_pages": 3,
+    "skipped_files": 0,
+    "errors": 26
+  },
+  "total_urls_discovered": 28,
+  "total_urls_crawled": 29,
+  "urls_crawled_list": [
+    "https://bigtappanalytics.com/beeonix",
+    "https://bigtappanalytics.com/contacts",
+    "https://www.bigtappanalytics.com/insurance",
+    "https://www.bigtappanalytics.com/contacts",
+    "https://www.bigtappanalytics.com/retail",
+    "https://bigtappanalytics.com/data-platform-engineering",
+    "https://www.bigtappanalytics.com/",
+    "https://www.bigtappanalytics.com/beeonix",
+    "https://www.bigtappanalytics.com/about",
+    "https://www.bigtappanalytics.com/hyper-automation-run",
+    "https://bigtappanalytics.com/reference-data-model",
+    "https://bigtappanalytics.com/",
+    "https://bigtappanalytics.com",
+    "https://www.bigtappanalytics.com/analytical-blueprinting",
+    "https://www.bigtappanalytics.com/ai-decision-intelligence",
+    "https://bigtappanalytics.com/cloud-unity",
+    "https://bigtappanalytics.com/ai-decision-intelligence",
+    "https://www.bigtappanalytics.com/data-platform-engineering",
+    "https://www.bigtappanalytics.com/reference-data-model",
+    "https://www.bigtappanalytics.com/bns",
+    "https://www.bigtappanalytics.com/cloud-unity",
+    "https://bigtappanalytics.com/about",
+    "https://bigtappanalytics.com/hyper-automation-run",
+    "https://bigtappanalytics.com/careers",
+    "https://www.bigtappanalytics.com/careers",
+    "https://bigtappanalytics.com/analytical-blueprinting",
+    "https://bigtappanalytics.com/retail",
+    "https://bigtappanalytics.com/bns",
+    "https://bigtappanalytics.com/insurance"
+  ]
+}

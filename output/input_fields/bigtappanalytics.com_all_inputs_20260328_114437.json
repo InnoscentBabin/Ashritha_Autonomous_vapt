@@ -1,0 +1,752 @@
+{
+  "https://bigtappanalytics.com": {
+    "url": "https://bigtappanalytics.com",
+    "timestamp": "2026-03-28T11:43:55.605276",
+    "inputs": [
+      {
+        "type": "search",
+        "category": "search",
+        "name": "query",
+        "id": "search",
+        "class": [
+          "search-input",
+          "w-input"
+        ],
+        "placeholder": "Search…",
+        "value": "",
+        "required": true,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "type": "submit",
+        "category": "submit",
+        "name": "",
+        "id": "",
+        "class": [
+          "search-button",
+          "w-button"
+        ],
+        "placeholder": "",
+        "value": " ",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "First-Name",
+        "id": "First-Name",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "First Name",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "Last-Name",
+        "id": "Last-Name",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Last Name",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "type": "email",
+        "category": "email",
+        "name": "email",
+        "id": "email",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Email",
+        "value": "",
+        "required": true,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "Company",
+        "id": "Company",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Company",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "type": "submit",
+        "category": "submit",
+        "name": "",
+        "id": "",
+        "class": [
+          "submit-button-2",
+          "w-button"
+        ],
+        "placeholder": "",
+        "value": "Book a Discovery Call",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com"
+      }
+    ],
+    "forms": [
+      {
+        "method": "get",
+        "action": "/search",
+        "id": "",
+        "class": [
+          "search",
+          "w-form"
+        ],
+        "inputs": [
+          {
+            "type": "search",
+            "category": "search",
+            "name": "query",
+            "id": "search",
+            "class": [
+              "search-input",
+              "w-input"
+            ],
+            "placeholder": "Search…",
+            "value": "",
+            "required": true,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          },
+          {
+            "type": "submit",
+            "category": "submit",
+            "name": "",
+            "id": "",
+            "class": [
+              "search-button",
+              "w-button"
+            ],
+            "placeholder": "",
+            "value": " ",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          }
+        ],
+        "total_inputs": 2,
+        "is_login_form": false,
+        "is_register_form": false,
+        "url": "https://bigtappanalytics.com"
+      },
+      {
+        "method": "get",
+        "action": "",
+        "id": "email-form",
+        "class": [
+          "form"
+        ],
+        "inputs": [
+          {
+            "type": "text",
+            "category": "text",
+            "name": "First-Name",
+            "id": "First-Name",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "First Name",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          },
+          {
+            "type": "text",
+            "category": "text",
+            "name": "Last-Name",
+            "id": "Last-Name",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Last Name",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          },
+          {
+            "type": "email",
+            "category": "email",
+            "name": "email",
+            "id": "email",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Email",
+            "value": "",
+            "required": true,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          },
+          {
+            "type": "text",
+            "category": "text",
+            "name": "Company",
+            "id": "Company",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Company",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          },
+          {
+            "type": "submit",
+            "category": "submit",
+            "name": "",
+            "id": "",
+            "class": [
+              "submit-button-2",
+              "w-button"
+            ],
+            "placeholder": "",
+            "value": "Book a Discovery Call",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com"
+          }
+        ],
+        "total_inputs": 5,
+        "is_login_form": false,
+        "is_register_form": false,
+        "url": "https://bigtappanalytics.com"
+      }
+    ],
+    "is_authentication_page": false,
+    "total_inputs": 7,
+    "total_forms": 2
+  },
+  "https://bigtappanalytics.com/": {
+    "url": "https://bigtappanalytics.com/",
+    "timestamp": "2026-03-28T11:43:57.488721",
+    "inputs": [
+      {
+        "type": "search",
+        "category": "search",
+        "name": "query",
+        "id": "search",
+        "class": [
+          "search-input",
+          "w-input"
+        ],
+        "placeholder": "Search…",
+        "value": "",
+        "required": true,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "type": "submit",
+        "category": "submit",
+        "name": "",
+        "id": "",
+        "class": [
+          "search-button",
+          "w-button"
+        ],
+        "placeholder": "",
+        "value": " ",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "First-Name",
+        "id": "First-Name",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "First Name",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "Last-Name",
+        "id": "Last-Name",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Last Name",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "type": "email",
+        "category": "email",
+        "name": "email",
+        "id": "email",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Email",
+        "value": "",
+        "required": true,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "Company",
+        "id": "Company",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Company",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "type": "submit",
+        "category": "submit",
+        "name": "",
+        "id": "",
+        "class": [
+          "submit-button-2",
+          "w-button"
+        ],
+        "placeholder": "",
+        "value": "Book a Discovery Call",
+        "required": false,
+        "readonly": false,
+        "url": "https://bigtappanalytics.com/"
+      }
+    ],
+    "forms": [
+      {
+        "method": "get",
+        "action": "/search",
+        "id": "",
+        "class": [
+          "search",
+          "w-form"
+        ],
+        "inputs": [
+          {
+            "type": "search",
+            "category": "search",
+            "name": "query",
+            "id": "search",
+            "class": [
+              "search-input",
+              "w-input"
+            ],
+            "placeholder": "Search…",
+            "value": "",
+            "required": true,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          },
+          {
+            "type": "submit",
+            "category": "submit",
+            "name": "",
+            "id": "",
+            "class": [
+              "search-button",
+              "w-button"
+            ],
+            "placeholder": "",
+            "value": " ",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          }
+        ],
+        "total_inputs": 2,
+        "is_login_form": false,
+        "is_register_form": false,
+        "url": "https://bigtappanalytics.com/"
+      },
+      {
+        "method": "get",
+        "action": "",
+        "id": "email-form",
+        "class": [
+          "form"
+        ],
+        "inputs": [
+          {
+            "type": "text",
+            "category": "text",
+            "name": "First-Name",
+            "id": "First-Name",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "First Name",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          },
+          {
+            "type": "text",
+            "category": "text",
+            "name": "Last-Name",
+            "id": "Last-Name",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Last Name",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          },
+          {
+            "type": "email",
+            "category": "email",
+            "name": "email",
+            "id": "email",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Email",
+            "value": "",
+            "required": true,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          },
+          {
+            "type": "text",
+            "category": "text",
+            "name": "Company",
+            "id": "Company",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Company",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          },
+          {
+            "type": "submit",
+            "category": "submit",
+            "name": "",
+            "id": "",
+            "class": [
+              "submit-button-2",
+              "w-button"
+            ],
+            "placeholder": "",
+            "value": "Book a Discovery Call",
+            "required": false,
+            "readonly": false,
+            "url": "https://bigtappanalytics.com/"
+          }
+        ],
+        "total_inputs": 5,
+        "is_login_form": false,
+        "is_register_form": false,
+        "url": "https://bigtappanalytics.com/"
+      }
+    ],
+    "is_authentication_page": false,
+    "total_inputs": 7,
+    "total_forms": 2
+  },
+  "https://www.bigtappanalytics.com/": {
+    "url": "https://www.bigtappanalytics.com/",
+    "timestamp": "2026-03-28T11:44:18.123472",
+    "inputs": [
+      {
+        "type": "search",
+        "category": "search",
+        "name": "query",
+        "id": "search",
+        "class": [
+          "search-input",
+          "w-input"
+        ],
+        "placeholder": "Search…",
+        "value": "",
+        "required": true,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "type": "submit",
+        "category": "submit",
+        "name": "",
+        "id": "",
+        "class": [
+          "search-button",
+          "w-button"
+        ],
+        "placeholder": "",
+        "value": " ",
+        "required": false,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "First-Name",
+        "id": "First-Name",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "First Name",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "Last-Name",
+        "id": "Last-Name",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Last Name",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "type": "email",
+        "category": "email",
+        "name": "email",
+        "id": "email",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Email",
+        "value": "",
+        "required": true,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "type": "text",
+        "category": "text",
+        "name": "Company",
+        "id": "Company",
+        "class": [
+          "text-field",
+          "w-input"
+        ],
+        "placeholder": "Company",
+        "value": "",
+        "required": false,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "type": "submit",
+        "category": "submit",
+        "name": "",
+        "id": "",
+        "class": [
+          "submit-button-2",
+          "w-button"
+        ],
+        "placeholder": "",
+        "value": "Book a Discovery Call",
+        "required": false,
+        "readonly": false,
+        "url": "https://www.bigtappanalytics.com/"
+      }
+    ],
+    "forms": [
+      {
+        "method": "get",
+        "action": "/search",
+        "id": "",
+        "class": [
+          "search",
+          "w-form"
+        ],
+        "inputs": [
+          {
+            "type": "search",
+            "category": "search",
+            "name": "query",
+            "id": "search",
+            "class": [
+              "search-input",
+              "w-input"
+            ],
+            "placeholder": "Search…",
+            "value": "",
+            "required": true,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          },
+          {
+            "type": "submit",
+            "category": "submit",
+            "name": "",
+            "id": "",
+            "class": [
+              "search-button",
+              "w-button"
+            ],
+            "placeholder": "",
+            "value": " ",
+            "required": false,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          }
+        ],
+        "total_inputs": 2,
+        "is_login_form": false,
+        "is_register_form": false,
+        "url": "https://www.bigtappanalytics.com/"
+      },
+      {
+        "method": "get",
+        "action": "",
+        "id": "email-form",
+        "class": [
+          "form"
+        ],
+        "inputs": [
+          {
+            "type": "text",
+            "category": "text",
+            "name": "First-Name",
+            "id": "First-Name",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "First Name",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          },
+          {
+            "type": "text",
+            "category": "text",
+            "name": "Last-Name",
+            "id": "Last-Name",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Last Name",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          },
+          {
+            "type": "email",
+            "category": "email",
+            "name": "email",
+            "id": "email",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Email",
+            "value": "",
+            "required": true,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          },
+          {
+            "type": "text",
+            "category": "text",
+            "name": "Company",
+            "id": "Company",
+            "class": [
+              "text-field",
+              "w-input"
+            ],
+            "placeholder": "Company",
+            "value": "",
+            "required": false,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          },
+          {
+            "type": "submit",
+            "category": "submit",
+            "name": "",
+            "id": "",
+            "class": [
+              "submit-button-2",
+              "w-button"
+            ],
+            "placeholder": "",
+            "value": "Book a Discovery Call",
+            "required": false,
+            "readonly": false,
+            "url": "https://www.bigtappanalytics.com/"
+          }
+        ],
+        "total_inputs": 5,
+        "is_login_form": false,
+        "is_register_form": false,
+        "url": "https://www.bigtappanalytics.com/"
+      }
+    ],
+    "is_authentication_page": false,
+    "total_inputs": 7,
+    "total_forms": 2
+  }
+}
